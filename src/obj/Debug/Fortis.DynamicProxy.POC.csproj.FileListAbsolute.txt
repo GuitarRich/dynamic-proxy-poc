@@ -1,0 +1,8 @@
+C:\Projects\Sandbox\dynamic-proxy-test\DynamicProxyTest\bin\Debug\DynamicProxyTest.exe.config
+C:\Projects\Sandbox\dynamic-proxy-test\DynamicProxyTest\bin\Debug\DynamicProxyTest.exe
+C:\Projects\Sandbox\dynamic-proxy-test\DynamicProxyTest\bin\Debug\DynamicProxyTest.pdb
+C:\Projects\Sandbox\dynamic-proxy-test\DynamicProxyTest\bin\Debug\Castle.Core.dll
+C:\Projects\Sandbox\dynamic-proxy-test\DynamicProxyTest\bin\Debug\Castle.Core.xml
+C:\Projects\Sandbox\dynamic-proxy-test\DynamicProxyTest\obj\Debug\Fortis.DynamicProxy.POC.csprojResolveAssemblyReference.cache
+C:\Projects\Sandbox\dynamic-proxy-test\DynamicProxyTest\obj\Debug\DynamicProxyTest.exe
+C:\Projects\Sandbox\dynamic-proxy-test\DynamicProxyTest\obj\Debug\DynamicProxyTest.pdb
